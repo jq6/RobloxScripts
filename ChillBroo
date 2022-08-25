@@ -3,11 +3,9 @@
 local m = game.Players.LocalPlayer
 --local char = workspace.non
 
-if script.Parent.Parent.Parent["NonEneb"].Value == true then
-	char=game:GetService("Workspace")["non"]
-else
-	char=m.Character
-end
+
+local char=m.Character
+
 
 function Random(num)
 	local section=num % 1 * 3;
