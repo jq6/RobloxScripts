@@ -1,7 +1,7 @@
 --[[
 CODED BY 1_805
 THANKS FOR USE!!!
-AND I HATE SCHOOL!
+
 
 ]]
 
